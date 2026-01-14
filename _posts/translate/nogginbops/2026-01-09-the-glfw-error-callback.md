@@ -1,7 +1,7 @@
 ---
 title: Функция обратного вызова для обработки ошибок GLFW
 description: Перевод поста NogginBops "The GLFW error callback"
-date: 2026-01-09 10:11:12 +0300
+date: 2026-01-10 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
