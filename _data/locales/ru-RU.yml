@@ -1,11 +1,11 @@
+tabs:
+  links: Ссылки
 copyright:
-  # Shown at the bottom of the post
   license:
     template: Авторский пост защищен лицензией :LICENSE_NAME
     name: CC BY-NC-SA 4.0
     link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-  # Displayed in the footer
   brief: Некоторые права защищены.
   verbose: >-
     Если не указано иное, авторские посты на этом сайте защищены лицензией Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
