@@ -36,7 +36,7 @@ private static void DefaultErrorCallback(ErrorCode errorCode, string description
 
 Это одна из причин, по которой может быть полезен пользовательский обработчик ошибок. Как для целей логирования (поскольку он предоставляет приложению достаточно информации для самостоятельного ведения логов), так и из-за особенностей Wayland, из-за которых GLFW сообщает об ошибках там, где обычно их нет.
 
-«Так как же установить свой собственный обработчик ошибок?» — спросите вы. Это очень просто: используйте [`GLFWProvider.SetErrorCallback`](https://opentk.net/api/OpenTK.Windowing.Desktop.GLFWProvider.html#OpenTK_Windowing_Desktop_GLFWProvider_SetErrorCallback_OpenTK_Windowing_GraphicsLibraryFramework_GLFWCallbacks_ErrorCallback_):
+"Так как же установить свой собственный обработчик ошибок?" — спросите вы. Это очень просто: используйте [`GLFWProvider.SetErrorCallback`](https://opentk.net/api/OpenTK.Windowing.Desktop.GLFWProvider.html#OpenTK_Windowing_Desktop_GLFWProvider_SetErrorCallback_OpenTK_Windowing_GraphicsLibraryFramework_GLFWCallbacks_ErrorCallback_):
 
 ``` csharp
 // Определяем собственную функцию обратного вызова ошибок.
