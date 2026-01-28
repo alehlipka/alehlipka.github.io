@@ -9,7 +9,7 @@ tags: [перевод, nogginbops, opentk, c#, opengl]
 
 **Пост не является авторским и/или официальным**  
 **Ссылка на оригинал:** [Why does GLFWProvider.CheckForMainThread exist?](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/28/why-does-glfwprovider-checkformainthread-exist.html)  
-**Автор оригинала:** [NogginBops](https://github.com/NogginBops)  
+**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 В этой статье мы рассмотрим функцию [GLFWProvider.CheckForMainThread](https://opentk.net/api/OpenTK.Windowing.Desktop.GLFWProvider.html#OpenTK_Windowing_Desktop_GLFWProvider_CheckForMainThread), выясним, зачем она нужна и для чего её можно использовать.
 

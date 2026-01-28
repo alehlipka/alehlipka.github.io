@@ -4,6 +4,11 @@ icon: fas fa-link
 order: 4
 ---
 
+## OpenTK
+- [OpenTK Site](https://opentk.net/)
+- [OpenTK GitHub](https://github.com/opentk/opentk/)
+- [OpenTK NuGet Package](https://www.nuget.org/packages/OpenTK/)
+
 ## Блоги
 - [OpenTK Blog](https://nogginbops.github.io/opentk-blog/)
 - [Self Shadow](https://blog.selfshadow.com/)

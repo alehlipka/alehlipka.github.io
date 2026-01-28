@@ -9,7 +9,7 @@ tags: [перевод, nogginbops, opentk, c#, opengl]
 
 **Пост не является авторским и/или официальным**  
 **Ссылка на оригинал:** [What is OPENTK4_USE_WAYLAND and what does it do?](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/15/what-is-opentk4-use-wayland.html)  
-**Автор оригинала:** [NogginBops](https://github.com/NogginBops)  
+**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 Для первого поста в этом блоге я хочу разобраться с малоизвестной переменной окружения `OPENTK4_USE_WAYLAND` и тем, как она взаимодействует с OpenTK.
 

@@ -9,7 +9,7 @@ tags: [перевод, nogginbops, opentk, c#, opengl]
 
 **Пост не является авторским и/или официальным**  
 **Ссылка на оригинал:** [The GLFW error callback](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/16/the-glfw-error-callback.html)  
-**Автор оригинала:** [NogginBops](https://github.com/NogginBops)  
+**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 В этом посте я расскажу об обратном вызове ошибок GLFW и о том, зачем вам может понадобиться установить свой собственный.
 
