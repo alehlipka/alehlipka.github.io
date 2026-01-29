@@ -5,8 +5,7 @@ date: 2026-01-14 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
-image:
-  path: https://repository-images.githubusercontent.com/14318990/43286d80-888d-11e9-9cab-284d7197615b
+image: /assets/img/opentk.png
 ---
 
 **Пост не является авторским и/или официальным**  
