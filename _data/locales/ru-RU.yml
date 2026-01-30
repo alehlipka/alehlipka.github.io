@@ -2,7 +2,7 @@ tabs:
   links: Ссылки
 copyright:
   license:
-    template: Авторский пост защищен лицензией :LICENSE_NAME
+    template: Авторские посты защищены лицензией :LICENSE_NAME
     name: CC BY-NC-SA 4.0
     link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
