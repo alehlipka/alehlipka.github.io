@@ -31,3 +31,9 @@ order: 4
 
 ## Vulkan 1.4
 - [Vulkan 1.4 Specification](https://docs.vulkan.org/spec/latest/index.html)
+
+## Nintendo
+- [Nintendo Developer Portal](https://developer.nintendo.com/)
+
+## Other
+- [The International Age Rating Coalition](https://globalratings.com/)
