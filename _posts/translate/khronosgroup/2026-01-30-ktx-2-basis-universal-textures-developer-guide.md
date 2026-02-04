@@ -27,10 +27,7 @@ image: /assets/img/ktx.png
 
 - [KTX-Software](https://github.com/KhronosGroup/KTX-Software/): Официальные библиотеки C/C++ для чтения, записи и транскодирования KTX-файлов, с опциональной поддержкой создания текстур в различных графических API. Включает [готовые бинарные пакеты](https://github.com/KhronosGroup/KTX-Software/releases) и сборки WebAssembly.
 - [Basis Universal](https://github.com/BinomialLLC/basis_universal/): Библиотеки Binomial на C/C++ для записи и транскодирования KTX-файлов с текстурами формата BasisU. Включает сборки WebAssembly.
-- [KTX-Parse](https://github.com/donmccurdy/KTX-Parse): Легковесная JavaScript/TypeScript/Node.js библиотека для чтения и записи KTX-файлов. Транскодирование в сжатый формат GPU нужно реализовывать отдельно<sup>1</sup>.
-
-<small><sub><sup>1</sup> Транскодеры из форматов передачи Basis Universal в форматы сжатия GPU входят в [KTX-Software](https://github.com/KhronosGroup/KTX-Software/) и доступны отдельно в [транскодерах Binomial C/C++/WASM](https://github.com/BinomialLLC/basis_universal/) и [транскодерах Khronos Group WASM](https://github.com/KhronosGroup/Basis-Universal-Transcoders).
-</sub></small>
+- [KTX-Parse](https://github.com/donmccurdy/KTX-Parse): Легковесная JavaScript/TypeScript/Node.js библиотека для чтения и записи KTX-файлов. Транскодирование в сжатый формат GPU нужно реализовывать отдельно[^transcoding].
 
 ## Блочное сжатие
 
@@ -500,3 +497,5 @@ width * height * 2
 | OpenGL (ES) | `GL_RG8` |
 | Direct3D | `DXGI_FORMAT_R8G8_UNORM` |
 | Metal | `MTLPixelFormatRG8Unorm` |
+
+[^transcoding]: Транскодеры из форматов передачи Basis Universal в форматы сжатия GPU входят в [KTX-Software](https://github.com/KhronosGroup/KTX-Software/) и доступны отдельно в [транскодерах Binomial C/C++/WASM](https://github.com/BinomialLLC/basis_universal/) и [транскодерах Khronos Group WASM](https://github.com/KhronosGroup/Basis-Universal-Transcoders).
