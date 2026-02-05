@@ -1,16 +1,18 @@
 ---
 title: Зачем существует GLFWProvider.CheckForMainThread?
-description: Перевод поста NogginBops "Why does GLFWProvider.CheckForMainThread exist?"
 date: 2026-01-28 09:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
 image: /assets/img/opentk.png
+original:
+    author:
+        name: NogginBops
+        url: https://nogginbops.github.io/
+    post:
+        title: Why does GLFWProvider.CheckForMainThread exist?
+        url: https://nogginbops.github.io/opentk-blog/support-tips/2025/12/28/why-does-glfwprovider-checkformainthread-exist.html
 ---
-
-**Пост не является авторским и/или официальным**  
-**Ссылка на оригинал:** [Why does GLFWProvider.CheckForMainThread exist?](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/28/why-does-glfwprovider-checkformainthread-exist.html)  
-**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 В этой статье мы рассмотрим функцию [GLFWProvider.CheckForMainThread](https://opentk.net/api/OpenTK.Windowing.Desktop.GLFWProvider.html#OpenTK_Windowing_Desktop_GLFWProvider_CheckForMainThread), выясним, зачем она нужна и для чего её можно использовать.
 

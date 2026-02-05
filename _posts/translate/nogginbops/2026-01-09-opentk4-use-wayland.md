@@ -1,16 +1,18 @@
 ---
 title: Что такое OPENTK4_USE_WAYLAND и для чего он нужен?
-description: Перевод поста NogginBops "What is OPENTK4_USE_WAYLAND and what does it do?"
 date: 2026-01-09 10:11:12 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
 image: /assets/img/opentk.png
+original:
+    author:
+        name: NogginBops
+        url: https://nogginbops.github.io/
+    post:
+        title: What is OPENTK4_USE_WAYLAND and what does it do?
+        url: https://nogginbops.github.io/opentk-blog/support-tips/2025/12/15/what-is-opentk4-use-wayland.html
 ---
-
-**Пост не является авторским и/или официальным**  
-**Ссылка на оригинал:** [What is OPENTK4_USE_WAYLAND and what does it do?](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/15/what-is-opentk4-use-wayland.html)  
-**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 Для первого поста в этом блоге я хочу разобраться с малоизвестной переменной окружения `OPENTK4_USE_WAYLAND` и тем, как она взаимодействует с OpenTK.
 

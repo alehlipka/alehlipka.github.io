@@ -1,16 +1,18 @@
 ---
 title: Исключения и P/Invoke
-description: Перевод поста NogginBops "Exceptions and P/Invoke"
 date: 2026-01-14 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
 image: /assets/img/opentk.png
+original:
+    author:
+        name: NogginBops
+        url: https://nogginbops.github.io/
+    post:
+        title: Exceptions and P/Invoke
+        url: https://nogginbops.github.io/opentk-blog/support-tips/2025/12/17/exceptions-and-pinvoke.html
 ---
-
-**Пост не является авторским и/или официальным**  
-**Ссылка на оригинал:** [Exceptions and P/Invoke](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/17/exceptions-and-pinvoke.html)  
-**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 В [предыдущем посте](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/16/the-glfw-error-callback.html) мы обсуждали callback обработки ошибок GLFW, и я упомянул более сложную причину для добавления собственного callback обработки ошибок. И эта причина — то, как P/Invoke работает с исключениями.
 

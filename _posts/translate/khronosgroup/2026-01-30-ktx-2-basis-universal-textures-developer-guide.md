@@ -1,16 +1,17 @@
 ---
-title: KTX 2.0 / Basis Universal текстуры — Руководство для разработчиков
-description: Перевод поста Khronos Group "KTX 2.0 / Basis Universal Textures — Developer Guide"
 date: 2026-01-30 11:11:11 +0300
 author: me
 categories: [Переводы, Khronos Group]
 tags: [перевод, khronos, ktx, opengl]
 image: /assets/img/ktx.png
+original:
+    author:
+        name: Khronos Group
+        url: https://github.com/KhronosGroup
+    post:
+        title: KTX 2.0 / Basis Universal Textures — Developer Guide
+        url: https://github.com/KhronosGroup/3D-Formats-Guidelines/blob/main/KTXDeveloperGuide.md
 ---
-
-**Пост не является авторским и/или официальным**  
-**Ссылка на оригинал:** [KTX 2.0 / Basis Universal Textures — Developer Guide](https://github.com/KhronosGroup/3D-Formats-Guidelines/blob/main/KTXDeveloperGuide.md)  
-**Автор оригинала:** [Khronos Group](https://github.com/KhronosGroup)  
 
 ## Формат Контейнера KTX
 

@@ -1,16 +1,18 @@
 ---
 title: Работа с исключениями в обратных вызовах (колбэках)
-description: Перевод поста NogginBops "Dealing with exceptions in callbacks"
 date: 2026-01-27 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
 image: /assets/img/opentk.png
+original:
+    author:
+        name: NogginBops
+        url: https://nogginbops.github.io/
+    post:
+        title: Dealing with exceptions in callbacks
+        url: https://nogginbops.github.io/opentk-blog/support-tips/2025/12/20/dealing-with-exceptions-in-callbacks.html
 ---
-
-**Пост не является авторским и/или официальным**  
-**Ссылка на оригинал:** [Dealing with exceptions in callbacks](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/20/dealing-with-exceptions-in-callbacks.html)  
-**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 В [предыдущем посте](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/17/exceptions-and-pinvoke.html) мы остановились на том, что OpenTK в некоторой степени обрабатывает повторную генерацию исключений. В этом посте мы рассмотрим, что это означает.
 

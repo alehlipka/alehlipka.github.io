@@ -1,16 +1,18 @@
 ---
 title: Функция обратного вызова для обработки ошибок GLFW
-description: Перевод поста NogginBops "The GLFW error callback"
 date: 2026-01-10 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
 tags: [перевод, nogginbops, opentk, c#, opengl]
 image: /assets/img/opentk.png
+original:
+    author:
+        name: NogginBops
+        url: https://nogginbops.github.io/
+    post:
+        title: The GLFW error callback
+        url: https://nogginbops.github.io/opentk-blog/support-tips/2025/12/16/the-glfw-error-callback.html
 ---
-
-**Пост не является авторским и/или официальным**  
-**Ссылка на оригинал:** [The GLFW error callback](https://nogginbops.github.io/opentk-blog/support-tips/2025/12/16/the-glfw-error-callback.html)  
-**Автор оригинала:** [NogginBops](https://nogginbops.github.io/)  
 
 В этом посте я расскажу об обратном вызове ошибок GLFW и о том, зачем вам может понадобиться установить свой собственный.
 
