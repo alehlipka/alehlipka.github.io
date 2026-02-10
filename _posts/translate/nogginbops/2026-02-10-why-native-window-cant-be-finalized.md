@@ -36,3 +36,6 @@ original:
 > … вы не можете гарантировать, что сборщик мусора вызовет все финализаторы до завершения, вы должны использовать Dispose или DisposeAsync, чтобы гарантировать освобождение ресурсов.
 
 Поэтому убедитесь, что вы освобождаете ресурсы вашего [`NativeWindow`](https://opentk.net/api/OpenTK.Windowing.Desktop.NativeWindow.html) либо с помощью `using`, либо вручную вызывая `.Dispose()`.
+
+_Примечание от переводчика:_  
+_Подробнее шаблон IDisposable описан в [.NET Platform Architecture book](https://github.com/sidristij/dotnetbook/blob/master/book/ru/Memory/02-MemoryManagement-Basics/02-04-MemoryManagement-IDisposable.md)_

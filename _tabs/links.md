@@ -32,6 +32,9 @@ order: 4
 ## Vulkan 1.4
 - [Vulkan 1.4 Specification](https://docs.vulkan.org/spec/latest/index.html)
 
+## DotNet
+- [.NET Platform Architecture book (English, Chinese, Russian)](https://github.com/sidristij/dotnetbook)
+
 ## Nintendo
 - [Nintendo Developer Portal](https://developer.nintendo.com/)
 
