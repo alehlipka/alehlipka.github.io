@@ -1,11 +1,10 @@
 ---
-layout: post
-title: Draft
+title: Введение
 description: Draft description
 date: 2026-02-05 11:11:11 +0300
 author: me
-categories: [Draft]
-tags: [draft]
+categories: [Проекты, Render Rites]
+tags: [render rites, opentk, c#, opengl]
 image: /assets/img/ktx.png
 ---
 
