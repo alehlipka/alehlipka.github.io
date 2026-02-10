@@ -3,7 +3,7 @@ title: Работа с исключениями в обратных вызова
 date: 2026-01-27 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
-tags: [перевод, nogginbops, opentk, c#, opengl]
+tags: [Перевод, NogginBops, OpenTK, C#, OpenGL, GLFW, NativeWindow]
 image: /assets/img/opentk.png
 original:
     author:

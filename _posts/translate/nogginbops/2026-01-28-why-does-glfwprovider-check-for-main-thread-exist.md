@@ -3,7 +3,7 @@ title: Зачем существует GLFWProvider.CheckForMainThread?
 date: 2026-01-28 09:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
-tags: [перевод, nogginbops, opentk, c#, opengl]
+tags: [Перевод, NogginBops, OpenTK, C#, OpenGL, GLFW, NativeWindow]
 image: /assets/img/opentk.png
 original:
     author:

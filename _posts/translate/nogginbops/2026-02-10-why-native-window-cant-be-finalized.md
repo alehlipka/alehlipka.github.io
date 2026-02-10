@@ -3,7 +3,7 @@ title: Почему NativeWindow не может быть финализиров
 date: 2026-02-10 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
-tags: [перевод, nogginbops, opentk, c#, opengl]
+tags: [Перевод, NogginBops, OpenTK, C#, OpenGL, GLFW, NativeWindow]
 image: /assets/img/opentk.png
 original:
     author:

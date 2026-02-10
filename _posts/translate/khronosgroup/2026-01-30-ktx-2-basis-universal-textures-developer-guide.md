@@ -2,7 +2,7 @@
 date: 2026-01-30 11:11:11 +0300
 author: me
 categories: [Переводы, Khronos Group]
-tags: [перевод, khronos, ktx, opengl]
+tags: [Перевод, Khronos, KTX, glTF, ETC1S, BasisLZ, UASTC]
 image: /assets/img/ktx.png
 original:
     author:

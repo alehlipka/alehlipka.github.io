@@ -3,7 +3,7 @@ title: Что такое OPENTK4_USE_WAYLAND и для чего он нужен?
 date: 2026-01-09 10:11:12 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
-tags: [перевод, nogginbops, opentk, c#, opengl]
+tags: [Перевод, NogginBops, OpenTK, C#, OpenGL, NativeWindow, XDG, Wayland, X11]
 image: /assets/img/opentk.png
 original:
     author:

@@ -3,7 +3,7 @@ title: Исключения и P/Invoke
 date: 2026-01-14 11:11:11 +0300
 author: me
 categories: [Переводы, NogginBops OpenTK Blog]
-tags: [перевод, nogginbops, opentk, c#, opengl]
+tags: [Перевод, NogginBops, OpenTK, C#, OpenGL, GLFW]
 image: /assets/img/opentk.png
 original:
     author:
